@@ -1,0 +1,29 @@
+#Single line Commment
+//
+Multiple
+line
+Comment
+//
+int a,b=4
+char c='6',B
+float C=2.5,d=-2.00
+string n="This is a string",m
+
+read(B,m)
+a+=b^2
+write(m,a)
+if a<10
+[ a++ ]
+if (! (b+c))
+[ read(c,d)
+write(n,m) ]
+
+if b>10 [ ++c ]
+
+if b>10 [a++] else [ b++ ]
+if b>10 [a++]
+else
+[ b++ ]
+
+for ( int a ; a<b ;++a)
+[ write(a) ]

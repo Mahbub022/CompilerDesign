@@ -1,0 +1,27 @@
+<haf.h>
+"haf.h"
+//dvcsdfv
+
+<! fwer !>
+<!wefr
+dewr
+edf
+!>
+
+<!
+dfe
+eferf
+dfe
+!>
+
+int a=2+3-5*3,b,C
+a+=3
+
+
+if (2<3) [if (3>4) [int a=7]]
+
+if (2<3) [;]
+
+if (2>3) [;] else [;]
+
+for (int loop ; 2<3 ; ++loop) [;]

@@ -1,0 +1,34 @@
+Included header file is : <haf.h>
+1 statement completed
+Included header file is : "haf.h"
+2 statement completed
+Single line comment started using //
+3 statement completed
+Multiple lines comment started using <! and finished using !>
+4 statement completed
+Multiple lines comment started using <! and finished using !>
+5 statement completed
+Multiple lines comment started using <! and finished using !>
+6 statement completed
+Variable: a 	 Value: -10 	 type :integer
+Variable is : b
+Variable is : C
+7 statement completed
+-7 has been assigned to a variable
+8 statement completed
+Variable: a 	 Value: 7 	 type :integer
+IF block started --NO block will be executed
+IF block started --IF block will be executed
+9 statement completed
+NUll statement
+IF block started --IF block will be executed
+10 statement completed
+NUll statement
+NUll statement
+IF ELSE block started --ELSE block will be executed
+11 statement completed
+Variable is : loop
+For loop started -->
+NUll statement
+<--For loop finished
+12 statement completed
